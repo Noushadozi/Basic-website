@@ -86,12 +86,13 @@ height: 94px;
     padding-bottom: 130px;
     
 }
+/*
 .goal-item{
    padding:100px;
-}/*
+}*/
 .goal-item-title{
     font-size: 30px;
-}*/
+}
 .goal-item-description{
     color: #737272;
 }
